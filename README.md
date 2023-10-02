@@ -14,5 +14,6 @@ Hibernate (ORM Tool)
 MySQL
 
 **Project Goals:**
+
 The primary goal of the CarDekho Admin Console is to provide an efficient and user-friendly tool for administrators to manage car listings and user data within the CarDekho platform. It aims to improve the overall administration process, ensure data accuracy, and enhance security.
 
